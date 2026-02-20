@@ -12,3 +12,9 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# Internal / operator artifacts (not for public repo)
+AGENT_SPEC/
+IMPLEMENTATION_GUIDE.md
+PUSH_INSTRUCTIONS.md
+**/TRANSFER_BRIEF.md
