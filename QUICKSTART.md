@@ -9,9 +9,11 @@
 ## I'm here to explore
 
 1. **[00_REGISTRY_CATALOG.md](./00_REGISTRY_CATALOG.md)** — All 24 providers. Flagship products. Pick one.
-2. **[00_UNIVERSE.md](./00_UNIVERSE.md)** — Canon. How this world works. Operating principles.
-3. **Packages** — Each provider has a folder: `packages/[PROVIDER]/`. Start with [00_INDEX.md](packages/NULL_AXIS/00_INDEX.md) (NULL AXIS) or any [Spec](00_REGISTRY_CATALOG.md) link.
-4. **Deep dive** — NULL AXIS is the depth standard. [03_KARMA_MACHINE_SPEC.md](packages/NULL_AXIS/03_KARMA_MACHINE_SPEC.md) shows full flagship spec.
+2. **[00_PRICING_INDEX.md](./00_PRICING_INDEX.md)** — All pricing. Tiers. À la carte. Escrow.
+3. **[00_TESTIMONIALS_INDEX.md](./00_TESTIMONIALS_INDEX.md)** — Value propositions. Anonymous verified refs.
+4. **[00_UNIVERSE.md](./00_UNIVERSE.md)** — Canon. How this world works. Operating principles.
+5. **Packages** — Each provider has a folder: `packages/[PROVIDER]/`. Start with [00_INDEX.md](packages/NULL_AXIS/00_INDEX.md) (NULL AXIS) or any [Spec](00_REGISTRY_CATALOG.md) link.
+6. **Deep dive** — NULL AXIS is the depth standard. [03_KARMA_MACHINE_SPEC.md](packages/NULL_AXIS/03_KARMA_MACHINE_SPEC.md) shows full flagship spec.
 
 **Vibe:** Worldbuilding as documentation. The kind of catalog a shadow economy would produce. Nothing is real.
 

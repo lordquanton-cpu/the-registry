@@ -6,6 +6,15 @@ All notable changes to The Registry are documented here.
 
 ---
 
+## [1.3.0] - 2025-02
+
+### Added
+
+- **00_PRICING_INDEX.md** — Consolidated pricing for all 24 providers. Tiers, à la carte, escrow thresholds.
+- **00_TESTIMONIALS_INDEX.md** — Value propositions from all 24 specs. Anonymous verified references (canon: discretion).
+
+---
+
 ## [1.2.0] - 2025-02
 
 ### Added

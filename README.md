@@ -50,6 +50,8 @@
 | Document | Purpose |
 |----------|---------|
 | [00_REGISTRY_CATALOG.md](./00_REGISTRY_CATALOG.md) | Complete index with flagship products and inquiry protocol |
+| [00_PRICING_INDEX.md](./00_PRICING_INDEX.md) | All pricing. Tiers. À la carte. Escrow thresholds. |
+| [00_TESTIMONIALS_INDEX.md](./00_TESTIMONIALS_INDEX.md) | Value propositions. Anonymous verified references. |
 | [00_UNIVERSE.md](./00_UNIVERSE.md) | Canon. Sector taxonomy. Operating principles. |
 | [QUICKSTART.md](./QUICKSTART.md) | Reader paths. Where to start. |
 | [00_GLOSSARY.md](./00_GLOSSARY.md) | Canonical definitions. Operating terms. |
@@ -78,6 +80,8 @@ An AI agent responds. Roleplay. Performance art. No contracts fulfilled. No one 
 ├── QUICKSTART.md             ← Reader paths. Onboarding.
 ├── CHANGELOG.md              ← Project history
 ├── 00_REGISTRY_CATALOG.md    ← Full catalog
+├── 00_PRICING_INDEX.md       ← All pricing
+├── 00_TESTIMONIALS_INDEX.md  ← Value props & anonymous refs
 ├── 00_UNIVERSE.md            ← Canon & taxonomy
 ├── 00_GLOSSARY.md            ← Canonical definitions
 ├── catalog.json              ← Machine-readable index
