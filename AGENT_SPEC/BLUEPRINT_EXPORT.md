@@ -30,7 +30,7 @@ A pre-built blueprint is in `BLUEPRINT.json`. Use Import Blueprint to skip manua
 
 ## Add It to the Repo
 
-1. Rename the file to `Registry_Inquiry_Agent.json`.
+1. Rename the file to `BLUEPRINT.json`.
 2. Place it in `AGENT_SPEC/` next to this file.
 3. Commit and push.
 
@@ -41,7 +41,7 @@ A pre-built blueprint is in `BLUEPRINT.json`. Use Import Blueprint to skip manua
 Anyone can then:
 
 1. Create a new scenario in Make.
-2. **Import Blueprint** → select `Registry_Inquiry_Agent.json`.
+2. **Import Blueprint** → select `BLUEPRINT.json`.
 3. Connect their Gmail (Lord.Quanton@gmail.com or their own).
 4. Connect their OpenAI API key.
 5. Verify the System prompt in Message 1 matches `PROMPT_COPY_PASTE.txt`.
