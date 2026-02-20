@@ -1,6 +1,6 @@
 # Push to GitHub
 
-The repo is ready at `D:\Workspace\the-registry`. Initial commit is done.
+The repo is ready at `D:\Workspace\projects\THE_REGISTRY`. Initial commit is done.
 
 ---
 
@@ -18,7 +18,7 @@ The repo is ready at `D:\Workspace\the-registry`. Initial commit is done.
 ## Push
 
 ```bash
-cd D:\Workspace\the-registry
+cd D:\Workspace\projects\THE_REGISTRY
 git push -u origin main
 ```
 

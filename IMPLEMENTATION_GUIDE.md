@@ -23,13 +23,13 @@ the-registry/
 ├── README.md
 ├── 00_REGISTRY_CATALOG.md
 ├── packages/
-│   ├── NULL_AXIS/         ← Copy from NULL_AXIS_PACKAGE
-│   ├── ZERO_SIGNATURE/    ← Copy from ZERO_SIGNATURE_PACKAGE
-│   ├── QUIET_FLOOR/       ← Overview + minimal spec
-│   └── DARK_MIRROR/       ← Overview + minimal spec
-├── AGENT_SPEC/            ← System prompt, implementation options
+│   ├── NULL_AXIS/         ← The Karma Machine
+│   ├── ZERO_SIGNATURE/    ← The Ghost Protocol
+│   ├── QUIET_FLOOR/       ← The Blanket
+│   └── DARK_MIRROR/       ← The Reflection
+├── AGENT_SPEC/            ← System prompt, BLUEPRINT.json, implementation
 ├── IMPLEMENTATION_GUIDE.md
-└── CONTACT.md             ← Single line: inquiries@[your-domain]
+└── CONTACT.md             ← Inquiries: Lord.Quanton@gmail.com
 ```
 
 ### 1.4 Contact Email in Repo
@@ -89,14 +89,12 @@ the-registry/
 ## Part 4: Deploy Order
 
 1. Create GitHub account + repo
-2. Copy package contents from `NULL_AXIS_PACKAGE` and `ZERO_SIGNATURE_PACKAGE` into repo `packages/`
-3. Add QUIET_FLOOR and DARK_MIRROR (minimal specs)
-4. Add README, catalog, AGENT_SPEC
-5. Create inquiry email
-6. Set up automation (Make/n8n/script)
-7. Test with your own email
-8. Push contact address to repo
-9. Share link if desired — or let it be found
+2. Clone or copy this repo (packages already included)
+3. Create inquiry email
+4. Set up automation (Make/n8n/script) — see AGENT_SPEC/BLUEPRINT.json
+5. Test with your own email
+6. Push contact address to repo
+7. Share link if desired — or let it be found
 
 ---
 
