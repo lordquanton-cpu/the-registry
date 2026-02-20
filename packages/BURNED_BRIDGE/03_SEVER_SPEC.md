@@ -35,25 +35,129 @@ The Sever is our flagship offering: complete contact termination. The other part
 
 ---
 
-## II-A. PRICING
+## II. THE EXPERIENCE (What the Client Receives)
 
-| Tier | Scope | Price (USD) |
-|------|-------|-------------|
+*The other party stops. All channels. Permanently.*
+
+They cease contact. You move on. Coordinated pressure. Legal framing. Relationship severance. **They stop. You move on.**
+
+**You paid for that. We deliver it.**
+
+---
+
+## II-A. PRICING — What It Costs
+
+### Tiered Service Packages
+
+| Package | Scope | Price (USD) |
+|---------|-------|-------------|
 | **TACTICAL** | Single channel. Targeted pressure. | $25,000 – $75,000 |
 | **SEVER** | Full termination. All channels. | $100,000 – $300,000 |
 | **BRIDGE** | Multi-party. Extended. Guaranteed. | $400,000 – $1,000,000 |
 
+### À La Carte Add-Ons
+
+| Component | Specification | Price Range |
+|-----------|---------------|-------------|
+| **Contact pressure** | Single channel. Targeted. | $25,000 – $75,000 |
+| **Legal framing** | Cease. Desist. Restraint. | $50,000 – $150,000 |
+| **Channel closure** | All channels. Permanent. | $75,000 – $200,000 |
+
 ---
 
-## III–VIII. ARCHITECTURE | CAPABILITIES | MODES | PROFILES | DELIVERABLES | BOUNDARIES
+## III. ARCHITECTURE
 
-**Capabilities:** Contact pressure; Legal framing; Channel closure; Relationship severance. **Profiles:** Harassment; Litigation; Corporate; Personal. **Boundaries:** All actions within legal bounds. No guarantee of permanent compliance.
+### System Type
+| Property | Specification |
+|----------|---------------|
+| **Distribution** | Contact pressure; legal framing; channel closure; relationship severance |
+| **Retention** | No operational record. No trace. |
+| **Forensic profile** | All actions within legal bounds. |
+
+### Flow
+```
+Designated party identified → Tactical (single channel)
+       ↓
+Sever (full termination, all channels)
+       ↓
+Bridge (multi-party, extended)
+       ↓
+Contact ceases. Permanently.
+```
 
 ---
 
-## IX. ENGAGEMENT
+## IV. CAPABILITIES
 
-**We assume nothing. We deliver.** Payment in advance. Assessment precedes engagement.
+### Contact Pressure
+| Capability | Specification |
+|------------|---------------|
+| **Targeted pressure** | Single channel. Coordinated. |
+| **Multi-channel** | All channels. Simultaneous. |
+
+### Legal Framing
+| Capability | Specification |
+|------------|---------------|
+| **Cease and desist** | Formal. Legal weight. |
+| **Restraint** | Court. Agreement. |
+
+### Relationship Severance
+| Capability | Specification |
+|------------|---------------|
+| **Channel closure** | Permanent. All channels. |
+| **Compliance** | Pressure. Enforcement. |
+
+---
+
+## V. OPERATIONAL MODES
+
+| Mode | What Happens |
+|------|--------------|
+| **Tactical** | Single channel. Targeted pressure. |
+| **Sever** | Full termination. All channels. |
+| **Bridge** | Multi-party. Extended. Guaranteed. |
+
+---
+
+## VI. CLIENT PROFILES
+
+| Profile | Use Case |
+|---------|----------|
+| **Harassment** | Stalking. Contact cessation. |
+| **Litigation** | Opposition. Witness. |
+| **Corporate** | Former employee. Partner. |
+| **Personal** | Divorce. Restraining. |
+
+---
+
+## VII. DELIVERABLES
+
+| Deliverable | Outcome |
+|-------------|---------|
+| **Contact cessation** | All channels. Permanent. |
+| **Legal framing** | Cease. Desist. Restraint. |
+| **Compliance** | They stop. You move on. |
+
+---
+
+## VIII. OPERATIONAL BOUNDARIES
+
+| Boundary | Client Note |
+|----------|-------------|
+| **Legal bounds** | All actions within law. |
+| **Permanent compliance** | No guarantee. Human behavior variable. |
+| **Jurisdiction** | Rules vary. Advise forum. |
+| **Counsel** | Coordination may be required. |
+
+---
+
+## IX. ENGAGEMENT — NEXT STEPS
+
+**We assume nothing. We deliver.**
+
+- Discretion absolute. We do not document. We do not retain.
+- Payment in advance. Assessment precedes engagement.
+- No charge for assessment.
 
 ---
 

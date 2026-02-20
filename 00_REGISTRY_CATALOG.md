@@ -2,7 +2,9 @@
 
 **Classification:** Public-facing. Registry.  
 **Purpose:** Central index of available providers.  
-**Contact:** Lord.Quanton@gmail.com — All inquiries vetted. Referral preferred.
+**Contact:** Lord.Quanton@gmail.com — All inquiries vetted. Referral preferred.  
+**Canon:** See [00_UNIVERSE.md](./00_UNIVERSE.md) for sector taxonomy and operating principles.  
+**Machine-readable:** [catalog.json](./catalog.json) · **Glossary:** [00_GLOSSARY.md](./00_GLOSSARY.md)
 
 ---
 

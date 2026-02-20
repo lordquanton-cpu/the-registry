@@ -56,25 +56,117 @@ You receive a full identity. Birth certificate. Passport. Credit history. Employ
 | **RESURRECTION** | Full protocol. Embedded. Durable. | $750,000 – $2,000,000 |
 | **LEGACY** | Multiple identities. Family. Generational. | Custom |
 
-### À La Carte: Per-document $15K–$50K | Credit sculpting $50K–$150K | Employment embedding $25K–$75K
+### À La Carte Add-Ons
+
+| Component | Specification | Price Range |
+|-----------|---------------|-------------|
+| **Per-document** | Birth. ID. Passport. Education. | $15,000 – $50,000 |
+| **Credit sculpting** | History. Score. Trail. | $50,000 – $150,000 |
+| **Employment embedding** | Record. References. Backstory. | $25,000 – $75,000 |
 
 ---
 
-## III. ARCHITECTURE — Document pipeline, Credit sculpting, Backstory embedding
+## III. ARCHITECTURE
 
-## IV. CAPABILITIES — Document fabrication, Credit sculpting, Verification
+### System Type
+| Property | Specification |
+|----------|---------------|
+| **Distribution** | Document pipeline; credit sculpting; backstory embedding; verification network |
+| **Retention** | Documents produced. Credit trail built. References planted. No operational record. |
+| **Forensic profile** | Documents pass inspection. History holds. Verification succeeds. |
 
-## V. OPERATIONAL MODES — Documents, Full Identity, Resurrection, Legacy
+### Flow
+```
+Client need → Document pipeline (birth, ID, passport, education)
+       ↓
+Credit sculpting (history, score, employment)
+       ↓
+Backstory embedding (references, digital footprint)
+       ↓
+Verification (inspection pass, durable identity)
+       ↓
+New life. Documents pass. History holds.
+```
 
-## VI. CLIENT PROFILES — Defection, Witness, Reputation death, Litigation escape
+---
 
-## VII. DELIVERABLES — Documents, Credit, Backstory, Verification
+## IV. CAPABILITIES
 
-## VIII. OPERATIONAL BOUNDARIES — Jurisdiction, Verification limits, Client compliance
+### Document Fabrication
+| Capability | Specification |
+|------------|---------------|
+| **Birth certificate** | Jurisdiction-correct. Verifiable. |
+| **Identity documents** | ID. Passport. Driving license. |
+| **Education records** | Degrees. Transcripts. Institutions. |
+| **Employment history** | Positions. References. Dates. |
+
+### Credit Sculpting
+| Capability | Specification |
+|------------|---------------|
+| **Score establishment** | Built over time. No flags. |
+| **Trail creation** | Accounts. History. Consistency. |
+| **Verification** | Passes standard checks. |
+
+### Backstory Embedding
+| Capability | Specification |
+|------------|---------------|
+| **References** | Verifiable. Coached. Consistent. |
+| **Digital footprint** | Social. Professional. Plausible. |
+| **Narrative** | Coherent. Defensible. |
+
+---
+
+## V. OPERATIONAL MODES
+
+| Mode | What Happens |
+|------|--------------|
+| **Documents** | Basic set. Birth. ID. Passport. |
+| **Full Identity** | Complete. Credit. Employment. Backstory. |
+| **Resurrection** | Full protocol. Embedded. Durable. |
+| **Legacy** | Multiple identities. Family. Generational. |
+
+---
+
+## VI. CLIENT PROFILES
+
+| Profile | Use Case |
+|---------|----------|
+| **Defection** | Exit. New identity. No trace back. |
+| **Witness** | Protection. New life. Buried past. |
+| **Reputation death** | Start over. Clean record. |
+| **Litigation escape** | Pre-judgment. Asset protection. |
+
+---
+
+## VII. DELIVERABLES
+
+| Deliverable | Outcome |
+|-------------|---------|
+| **Documents** | Birth. ID. Passport. Education. Employment. |
+| **Credit** | Score. History. Trail. Verified. |
+| **Backstory** | References. Footprint. Narrative. |
+| **Verification** | Inspection pass. Durable. |
+
+---
+
+## VIII. OPERATIONAL BOUNDARIES
+
+| Boundary | Client Note |
+|----------|-------------|
+| **Jurisdiction** | Document validity varies by country. Advise destination. |
+| **Verification limits** | Deep forensic may flag. We minimize. |
+| **Client compliance** | Maintain backstory. No contradiction. |
+| **Timeline** | Credit sculpting takes months. Plan accordingly. |
+
+---
 
 ## IX. ENGAGEMENT — NEXT STEPS
 
-**We assume nothing. We deliver resurrection.** Payment in advance. Assessment precedes engagement. No charge for assessment.
+**We assume nothing. We deliver resurrection.**
+
+- Discretion absolute. We do not document. We do not retain.
+- Payment in advance. Cryptocurrency or structured finance. No refunds.
+- Assessment precedes engagement. No charge for assessment.
 
 ---
 

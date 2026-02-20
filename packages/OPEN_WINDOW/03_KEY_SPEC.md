@@ -35,25 +35,129 @@ The Key is our flagship offering: physical access to secured spaces. Locks. Alar
 
 ---
 
-## II-A. PRICING
+## II. THE EXPERIENCE (What the Client Receives)
 
-| Tier | Scope | Price (USD) |
-|------|-------|-------------|
+*Locks. Alarms. Access control. We open. You enter.*
+
+No trace of method. No trace of presence. We open what is closed. **We open what is closed.**
+
+**You paid for that. We deliver it.**
+
+---
+
+## II-A. PRICING — What It Costs
+
+### Tiered Service Packages
+
+| Package | Scope | Price (USD) |
+|---------|-------|-------------|
 | **SINGLE** | One location. One entry. | $50,000 – $150,000 |
 | **KEY** | Multi-point. Ongoing access. | $200,000 – $500,000 |
 | **WINDOW** | Extended. Full access. | $750,000 – $2,000,000 |
 
+### À La Carte Add-Ons
+
+| Component | Specification | Price Range |
+|-----------|---------------|-------------|
+| **Lock bypass** | One location. One entry. | $25,000 – $75,000 |
+| **Alarm neutralization** | Per system. Per entry. | $15,000 – $50,000 |
+| **Access control** | Override. Clone. Bypass. | $50,000 – $150,000 |
+
 ---
 
-## III–VIII. ARCHITECTURE | CAPABILITIES | MODES | PROFILES | DELIVERABLES | BOUNDARIES
+## III. ARCHITECTURE
 
-**Capabilities:** Lock bypass; Alarm neutralization; Access control; Entry/egress. **Profiles:** Litigation; Corporate; Physical acquisition; Reconnaissance. **Boundaries:** Physical constraints apply. No guarantee when systems are upgraded. All actions per client authorization.
+### System Type
+| Property | Specification |
+|----------|---------------|
+| **Distribution** | Lock bypass; alarm neutralization; access control; entry/egress |
+| **Retention** | No method documentation. No trace. |
+| **Forensic profile** | Undetectable. Per client authorization. |
+
+### Flow
+```
+Target location identified → Single (one entry)
+       ↓
+Key (multi-point, ongoing)
+       ↓
+Window (extended, full access)
+       ↓
+You enter. No trace of how.
+```
 
 ---
 
-## IX. ENGAGEMENT
+## IV. CAPABILITIES
 
-**We assume nothing. We deliver access.** Payment in advance. Target feasibility evaluated at intake.
+### Lock Bypass
+| Capability | Specification |
+|------------|---------------|
+| **Physical** | Mechanical. Electronic. |
+| **Non-destructive** | No trace. Reversible. |
+
+### Alarm Neutralization
+| Capability | Specification |
+|------------|---------------|
+| **Per system** | Wired. Wireless. |
+| **Access control** | Override. Clone. Bypass. |
+
+### Entry/Egress
+| Capability | Specification |
+|------------|---------------|
+| **Entry** | Undetected. No trace. |
+| **Egress** | Same. Clean. |
+
+---
+
+## V. OPERATIONAL MODES
+
+| Mode | What Happens |
+|------|--------------|
+| **Single** | One location. One entry. |
+| **Key** | Multi-point. Ongoing access. |
+| **Window** | Extended. Full access. |
+
+---
+
+## VI. CLIENT PROFILES
+
+| Profile | Use Case |
+|---------|----------|
+| **Litigation** | Evidence. Discovery. Opposition. |
+| **Corporate** | Due diligence. Physical verification. |
+| **Physical acquisition** | Documents. Artifacts. |
+| **Reconnaissance** | Pre-operation. Assessment. |
+
+---
+
+## VII. DELIVERABLES
+
+| Deliverable | Outcome |
+|-------------|---------|
+| **Access** | Entry. Egress. No trace. |
+| **Method** | Undocumented. Deniable. |
+| **Ongoing** | Multi-point. Key. Window. |
+
+---
+
+## VIII. OPERATIONAL BOUNDARIES
+
+| Boundary | Client Note |
+|----------|-------------|
+| **Physical constraints** | Some systems resist. Assess at intake. |
+| **System upgrades** | No guarantee when systems change. |
+| **Client authorization** | All actions per authorization. |
+| **Jurisdiction** | Physical entry subject to local law. |
+
+---
+
+## IX. ENGAGEMENT — NEXT STEPS
+
+**We assume nothing. We deliver access.**
+
+- Discretion absolute. We do not document. We do not retain.
+- Payment in advance. Target feasibility evaluated at intake.
+- No charge for assessment.
 
 ---
 

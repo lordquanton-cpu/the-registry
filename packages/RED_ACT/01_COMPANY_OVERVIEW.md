@@ -39,6 +39,15 @@ Some clients cannot wait. Arrest. Extradition. Threat. We provide **immediate ex
 
 ---
 
+## Sector Expertise
+
+- **Defection** — State. Corporate. Organizational exit.
+- **Witness** — Protection. Relocation. No program.
+- **Litigation** — Pre-judgment. Asset protection.
+- **Crisis** — Hostile environment. Immediate exit.
+
+---
+
 ![RED ACT — Emergency Extraction & Crisis Response](./assets/red-act-logo.png)
 
 ---

@@ -35,25 +35,130 @@ The Shift is our flagship offering: attribution redirection. Evidence points whe
 
 ---
 
-## II-A. PRICING
+## II. THE EXPERIENCE (What the Client Receives)
 
-| Tier | Scope | Price (USD) |
-|------|-------|-------------|
+*Evidence points where we direct. Blame shifts. The narrative bends.*
+
+You stay clear. The trail never reaches you. Planted material. Narrative framing. Trail manipulation. **The trail points wherever we choose.**
+
+**You paid for that. We deliver it.**
+
+---
+
+## II-A. PRICING — What It Costs
+
+### Tiered Service Packages
+
+| Package | Scope | Price (USD) |
+|---------|-------|-------------|
 | **SINGLE** | One event. Targeted redirection. | $100,000 – $300,000 |
 | **SHIFT** | Coordinated. Multi-evidence. | $400,000 – $1,000,000 |
 | **PARALLAX** | Extended. Full narrative. | $1,500,000 – $5,000,000 |
 
+### À La Carte Add-Ons
+
+| Component | Specification | Price Range |
+|-----------|---------------|-------------|
+| **Evidence placement** | One event. Targeted. | $75,000 – $200,000 |
+| **Narrative framing** | Story. Attribution. | $150,000 – $400,000 |
+| **Trail manipulation** | Multi-evidence. Coordinated. | $300,000 – $750,000 |
+
 ---
 
-## III–VIII. ARCHITECTURE | CAPABILITIES | MODES | PROFILES | DELIVERABLES | BOUNDARIES
+## III. ARCHITECTURE
 
-**Capabilities:** Evidence placement; Narrative framing; Trail manipulation; Attribution engineering. **Profiles:** Litigation; Regulatory; Criminal; Corporate. **Boundaries:** Effectiveness depends on investigator behavior. No guarantee of permanent redirection. All material placement per client authorization.
+### System Type
+| Property | Specification |
+|----------|---------------|
+| **Distribution** | Evidence placement; narrative framing; trail manipulation; attribution engineering |
+| **Retention** | No operational record. All placement per authorization. |
+| **Forensic profile** | Trail points elsewhere. Client clear. |
+
+### Flow
+```
+Investigation or blame → Single (one event)
+       ↓
+Shift (coordinated, multi-evidence)
+       ↓
+Parallax (extended, full narrative)
+       ↓
+Trail points wherever we choose.
+```
 
 ---
 
-## IX. ENGAGEMENT
+## IV. CAPABILITIES
 
-**We assume nothing. We deliver redirection.** Payment in advance. Redirection strategy evaluated at intake.
+### Evidence Placement
+| Capability | Specification |
+|------------|---------------|
+| **Planting** | Material. Credible. Directed. |
+| **Trail** | Points elsewhere. |
+
+### Narrative Framing
+| Capability | Specification |
+|------------|---------------|
+| **Story** | Bends. Attribution shifts. |
+| **Blame** | Redirects. Focus elsewhere. |
+
+### Trail Manipulation
+| Capability | Specification |
+|------------|---------------|
+| **Multi-evidence** | Coordinated. Consistent. |
+| **Attribution** | Engineered. Clear. |
+
+---
+
+## V. OPERATIONAL MODES
+
+| Mode | What Happens |
+|------|--------------|
+| **Single** | One event. Targeted redirection. |
+| **Shift** | Coordinated. Multi-evidence. |
+| **Parallax** | Extended. Full narrative. |
+
+---
+
+## VI. CLIENT PROFILES
+
+| Profile | Use Case |
+|---------|----------|
+| **Litigation** | Blame. Evidence. Opposition. |
+| **Regulatory** | Attribution. Probe. |
+| **Criminal** | Defense. Redirect. |
+| **Corporate** | Responsibility. Narrative. |
+
+---
+
+## VII. DELIVERABLES
+
+| Deliverable | Outcome |
+|-------------|---------|
+| **Evidence placement** | Planted. Directed. |
+| **Narrative** | Framed. Attribution shifted. |
+| **Trail** | Points elsewhere. Client clear. |
+| **Redirection** | Complete. Deniable. |
+
+---
+
+## VIII. OPERATIONAL BOUNDARIES
+
+| Boundary | Client Note |
+|----------|-------------|
+| **Investigator behavior** | Effectiveness depends on response. |
+| **Permanent redirection** | No guarantee. |
+| **Client authorization** | All material placement per authorization. |
+| **Jurisdiction** | Material placement subject to local law. |
+
+---
+
+## IX. ENGAGEMENT — NEXT STEPS
+
+**We assume nothing. We deliver redirection.**
+
+- Discretion absolute. We do not document. We do not retain.
+- Payment in advance. Redirection strategy evaluated at intake.
+- No charge for assessment.
 
 ---
 

@@ -24,9 +24,29 @@ PARALLAX provides **attribution shifting** and **false-flag operations**. They d
 
 ---
 
-## Principles
+## Why We Exist
 
-Prepayment. Cryptocurrency. No questions. No trace.
+Our clients face blame, attribution, or investigation that cannot be resolved through conventional channels. The narrative points at them. Evidence accumulates. We redirect it. We provide **plausible deniability** and **narrative control** where both are required.
+
+**No paper trail. No attribution. No questions.**
+
+---
+
+## Our Principles
+
+1. **Discretion** — We do not document. We do not retain. We do not ask why.
+2. **Deniability** — The trail never reaches you. Blame redirects. We control the narrative.
+3. **Delivery** — Evidence points where we direct. Outcome delivered. Guaranteed.
+4. **Prepayment** — Cryptocurrency or structured finance. No refunds. No trace.
+
+---
+
+## Sector Expertise
+
+- **Corporate** — Responsibility. Blame. M&A. Litigation.
+- **Regulatory** — Attribution. Probe. Compliance.
+- **Criminal** — Defense. Redirection. Narrative.
+- **High-net-worth** — Personal. Reputation. Inheritance.
 
 ---
 

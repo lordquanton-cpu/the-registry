@@ -35,25 +35,130 @@ The Freeze is our flagship offering: counter-investigation protocol. Sources dry
 
 ---
 
-## II-A. PRICING
+## II. THE EXPERIENCE (What the Client Receives)
 
-| Tier | Scope | Price (USD) |
-|------|-------|-------------|
+*Sources dry up. Witnesses retreat. The case goes cold.*
+
+Investigators hit walls. Nothing sticks. We freeze. The case goes cold. **Investigations that go nowhere.**
+
+**You paid for that. We deliver it.**
+
+---
+
+## II-A. PRICING — What It Costs
+
+### Tiered Service Packages
+
+| Package | Scope | Price (USD) |
+|---------|-------|-------------|
 | **TACTICAL** | Single investigator or source. Targeted pressure. | $100,000 – $250,000 |
 | **FREEZE** | Full case. Multi-source. Procedural delay. | $400,000 – $1,000,000 |
 | **DEEP FREEZE** | Multi-forum. Regulatory. Extended. | Custom |
 
+### À La Carte Add-Ons
+
+| Component | Specification | Price Range |
+|-----------|---------------|-------------|
+| **Source management** | Dry up. Pressure. Retreat. | $75,000 – $200,000 |
+| **Procedural delay** | Motion. Continuance. Cost. | $50,000 – $150,000 |
+| **Evidence disruption** | Chain. Access. Timing. | $100,000 – $300,000 |
+
 ---
 
-## III–VIII. ARCHITECTURE | CAPABILITIES | MODES | PROFILES | DELIVERABLES | BOUNDARIES
+## III. ARCHITECTURE
 
-**Capabilities:** Source management; Witness pressure; Procedural delay; Evidence disruption. **Profiles:** Litigation; Regulatory; Criminal; Corporate. **Boundaries:** All actions within legal bounds. No guarantee of outcome. Coordination with counsel may be required.
+### System Type
+| Property | Specification |
+|----------|---------------|
+| **Distribution** | Source management; witness pressure; procedural delay; evidence disruption |
+| **Retention** | No operational record. No trace. |
+| **Forensic profile** | All actions within legal bounds. |
+
+### Flow
+```
+Investigation active → Tactical (single target)
+       ↓
+Freeze (full case, multi-source)
+       ↓
+Deep freeze (multi-forum, regulatory)
+       ↓
+Case cold. Investigation stalls. Nothing sticks.
+```
 
 ---
 
-## IX. ENGAGEMENT
+## IV. CAPABILITIES
 
-**We assume nothing. We deliver cold.** Payment in advance. Assessment precedes engagement.
+### Source Management
+| Capability | Specification |
+|------------|---------------|
+| **Source pressure** | Dry up. Retreat. Silence. |
+| **Witness management** | Cooperation. Non-cooperation. |
+
+### Procedural Delay
+| Capability | Specification |
+|------------|---------------|
+| **Motion practice** | Continuances. Extensions. |
+| **Discovery** | Scope. Timing. Cost burn. |
+
+### Evidence Disruption
+| Capability | Specification |
+|------------|---------------|
+| **Chain** | Challenge. Disrupt. |
+| **Access** | Timing. Availability. |
+
+---
+
+## V. OPERATIONAL MODES
+
+| Mode | What Happens |
+|------|--------------|
+| **Tactical** | Single investigator or source. Targeted pressure. |
+| **Freeze** | Full case. Multi-source. Procedural delay. |
+| **Deep Freeze** | Multi-forum. Regulatory. Extended. |
+
+---
+
+## VI. CLIENT PROFILES
+
+| Profile | Use Case |
+|---------|----------|
+| **Litigation** | Opposition investigation. Civil. |
+| **Regulatory** | Agency probe. Compliance. |
+| **Criminal** | Defense. Investigation stall. |
+| **Corporate** | Internal. M&A. Leak. |
+
+---
+
+## VII. DELIVERABLES
+
+| Deliverable | Outcome |
+|-------------|---------|
+| **Case cold** | Investigation stalls. |
+| **Sources dry** | Witnesses retreat. |
+| **Walls** | Investigators hit them. |
+| **Nothing sticks** | No conclusion. |
+
+---
+
+## VIII. OPERATIONAL BOUNDARIES
+
+| Boundary | Client Note |
+|----------|-------------|
+| **Legal bounds** | All actions within law. |
+| **No guarantee** | Outcome not assured. |
+| **Counsel** | Coordination may be required. |
+| **Jurisdiction** | Rules vary. Advise forum. |
+
+---
+
+## IX. ENGAGEMENT — NEXT STEPS
+
+**We assume nothing. We deliver cold.**
+
+- Discretion absolute. We do not document. We do not retain.
+- Payment in advance. Assessment precedes engagement.
+- No charge for assessment.
 
 ---
 

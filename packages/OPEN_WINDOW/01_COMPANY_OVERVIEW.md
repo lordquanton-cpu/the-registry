@@ -24,9 +24,29 @@ OPEN WINDOW provides **physical entry** and **corporate access**. Locked doors. 
 
 ---
 
-## Principles
+## Why We Exist
 
-Prepayment. Cryptocurrency. No questions. No trace.
+Our clients need access to places that are closed. Evidence. Documents. Due diligence. Conventional methods leave traces. We provide **undetectable entry** where the lock is the problem.
+
+**We open what is closed.**
+
+---
+
+## Our Principles
+
+1. **Discretion** — We do not document. We do not retain. We do not ask why.
+2. **Deniability** — No trace of method. No trace of presence. You entered. That is all.
+3. **Delivery** — We open. You enter. Or we do not charge.
+4. **Prepayment** — Cryptocurrency or structured finance. No refunds. No trace.
+
+---
+
+## Sector Expertise
+
+- **Litigation** — Evidence. Discovery. Opposition.
+- **Corporate** — Due diligence. Physical verification.
+- **Physical acquisition** — Documents. Artifacts.
+- **Reconnaissance** — Pre-operation. Assessment.
 
 ---
 

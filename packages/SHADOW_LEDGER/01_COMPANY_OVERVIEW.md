@@ -24,9 +24,29 @@ SHADOW LEDGER provides **financial obfuscation** and **accounting masking**. Mon
 
 ---
 
-## Principles
+## Why We Exist
 
-Prepayment. Cryptocurrency. No questions. No trace.
+Our clients face auditors, regulators, or litigants who follow the money. Conventional structures leave trails. We provide **financial obfuscation** so the ledger shows what we allow. Books balance. Books hide.
+
+**Money moves. Auditors see nothing.**
+
+---
+
+## Our Principles
+
+1. **Discretion** — We do not document. We do not retain. We do not ask why.
+2. **Deniability** — Structure. Route. Opaque. No client identity.
+3. **Delivery** — Money moves. Auditors see nothing. Or we do not charge.
+4. **Prepayment** — Cryptocurrency or structured finance. No refunds. No trace.
+
+---
+
+## Sector Expertise
+
+- **Litigation** — Asset protection. Judgment.
+- **Regulatory** — Compliance surface. Opaque.
+- **Corporate** — M&A. Divestiture. Restructure.
+- **Asset protection** — Wealth. Inheritance.
 
 ---
 

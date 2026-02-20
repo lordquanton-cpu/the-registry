@@ -53,25 +53,106 @@ You move. We clear. Routes are secured. Handoffs occur. Extraction support avail
 | **FULL RUN** | Multi-leg. Extraction support. Safe haven. | $200,000 – $500,000 |
 | **PROTOCOL** | Full protocol. Identity support. Extended. | $750,000 – $2,000,000 |
 
-### À La Carte: Route planning $15K–$40K | Armed escort $25K–$75K/day | Safe-haven staging $50K–$150K
+### À La Carte Add-Ons
+
+| Component | Specification | Price Range |
+|-----------|---------------|-------------|
+| **Route planning** | Secure transit. Timing. Handoff. | $15,000 – $40,000 |
+| **Armed escort** | Per day. Per leg. | $25,000 – $75,000/day |
+| **Safe-haven staging** | Destination. Logistics. | $50,000 – $150,000 |
 
 ---
 
-## III. ARCHITECTURE — Route clearance, Handoffs, Escort coordination
+## III. ARCHITECTURE
 
-## IV. CAPABILITIES — Armed escort, Route clearance, Extraction support, Safe haven
+### System Type
+| Property | Specification |
+|----------|---------------|
+| **Distribution** | Route clearance; handoffs; escort coordination; safe-house network |
+| **Retention** | No route documentation. No manifest. |
+| **Forensic profile** | Deniable. No trace. |
 
-## V. OPERATIONAL MODES — Escort, Full Run, Protocol
+### Flow
+```
+Principal at origin → Route clearance (secured)
+       ↓
+Escort (armed, multi-leg)
+       ↓
+Handoffs (coordinated, deniable)
+       ↓
+Safe haven (destination)
+       ↓
+Principal arrives. No one moves us.
+```
 
-## VI. CLIENT PROFILES — Extraction, Witness, Defection, Corporate
+---
 
-## VII. DELIVERABLES — Safe transit, Safe haven, Coordination
+## IV. CAPABILITIES
 
-## VIII. OPERATIONAL BOUNDARIES — Jurisdiction, Force limits, Client compliance
+### Armed Escort
+| Capability | Specification |
+|------------|---------------|
+| **Armed presence** | Principal. Route. Handoff. |
+| **Route clearance** | Pre-vetted. Secured. |
+| **Multi-leg** | Handoffs. Deniable. |
+
+### Extraction Support
+| Capability | Specification |
+|------------|---------------|
+| **Extraction coordination** | With RED ACT or standalone. |
+| **Safe-haven delivery** | Destination. Staging. |
+
+---
+
+## V. OPERATIONAL MODES
+
+| Mode | What Happens |
+|------|--------------|
+| **Escort** | Single leg. Armed. Route clearance. |
+| **Full Run** | Multi-leg. Extraction support. Safe haven. |
+| **Protocol** | Full protocol. Identity support. Extended. |
+
+---
+
+## VI. CLIENT PROFILES
+
+| Profile | Use Case |
+|---------|----------|
+| **Extraction** | Hostile exit. Relocation. |
+| **Witness** | Protection. Transit. |
+| **Defection** | Exit support. Safe passage. |
+| **Corporate** | Executive. High-risk transit. |
+
+---
+
+## VII. DELIVERABLES
+
+| Deliverable | Outcome |
+|-------------|---------|
+| **Safe transit** | Principal at destination. |
+| **Safe haven** | Staging. Support. |
+| **Coordination** | Route. Handoffs. Deniable. |
+
+---
+
+## VIII. OPERATIONAL BOUNDARIES
+
+| Boundary | Client Note |
+|----------|-------------|
+| **Jurisdiction** | Force limits vary. Advise route. |
+| **Force limits** | Defensive. Extraction support. |
+| **Client compliance** | Follow protocols. No deviation. |
+| **Interception** | No guarantee. Best effort. |
+
+---
 
 ## IX. ENGAGEMENT — NEXT STEPS
 
-**We assume nothing. We deliver.** Payment in advance. Assessment precedes engagement.
+**We assume nothing. We deliver.**
+
+- Discretion absolute. We do not document. We do not retain.
+- Payment in advance. Assessment precedes engagement.
+- No charge for assessment.
 
 ---
 

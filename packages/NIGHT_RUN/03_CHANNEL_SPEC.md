@@ -35,21 +35,125 @@ The Channel is our flagship offering: end-to-end deniable logistics. Cargo moves
 
 ---
 
-## II. THE EXPERIENCE | II-A. PRICING
+## II. THE EXPERIENCE (What the Client Receives)
 
-| Tier | Scope | Price (USD) |
-|------|-------|-------------|
+*Cargo moves. No manifest. No questions.*
+
+Handoffs occur. Opaque routing. Manifest-free. We route. You receive. Deniable. End-to-end. **Cargo moves. No manifest. No questions.**
+
+**You paid for that. We deliver it.**
+
+---
+
+## II-A. PRICING — What It Costs
+
+### Tiered Service Packages
+
+| Package | Scope | Price (USD) |
+|---------|-------|-------------|
 | **SINGLE** | One shipment. End-to-end. Deniable. | $75,000 – $200,000 |
 | **CHANNEL** | Recurring route. Ongoing handoffs. | $300,000 – $750,000 |
 | **PIPELINE** | Annual. Multiple shipments. Capacity reserved. | $1,000,000 – $3,000,000/yr |
 
-**Capabilities:** Deniable routing; Handoffs; Manifest-free transit; Capacity management. **Boundaries:** Cargo restrictions apply. No guarantee against interception.
+### À La Carte Add-Ons
+
+| Component | Specification | Price Range |
+|-----------|---------------|-------------|
+| **Single shipment** | End-to-end. Deniable. | $75,000 – $200,000 |
+| **Route establishment** | Recurring. Handoffs. | $150,000 – $400,000 |
+| **Capacity reservation** | Priority. Pipeline. | Custom |
 
 ---
 
-## IX. ENGAGEMENT
+## III. ARCHITECTURE
 
-**We assume nothing. We deliver movement.** Payment in advance. Cargo type and route feasibility evaluated at intake.
+### System Type
+| Property | Specification |
+|----------|---------------|
+| **Distribution** | Deniable routing; handoffs; manifest-free transit; capacity management |
+| **Retention** | No manifest. No paper trail. No questions. |
+| **Forensic profile** | Opaque. Deniable. |
+
+### Flow
+```
+Cargo at origin → Route (opaque)
+       ↓
+Handoffs (coordinated, manifest-free)
+       ↓
+Destination
+       ↓
+Cargo arrives. No manifest. No questions.
+```
+
+---
+
+## IV. CAPABILITIES
+
+### Deniable Routing
+| Capability | Specification |
+|------------|---------------|
+| **Opaque routing** | No manifest. No paper trail. |
+| **Handoffs** | Coordinated. Deniable. |
+| **End-to-end** | Origin to destination. |
+
+### Capacity Management
+| Capability | Specification |
+|------------|---------------|
+| **Single** | One shipment. |
+| **Channel** | Recurring. Ongoing. |
+| **Pipeline** | Annual. Reserved. |
+
+---
+
+## V. OPERATIONAL MODES
+
+| Mode | What Happens |
+|------|--------------|
+| **Single** | One shipment. End-to-end. Deniable. |
+| **Channel** | Recurring route. Ongoing handoffs. |
+| **Pipeline** | Annual. Multiple shipments. Capacity reserved. |
+
+---
+
+## VI. CLIENT PROFILES
+
+| Profile | Use Case |
+|---------|----------|
+| **Corporate** | Asset movement. Deniable. |
+| **Defection** | Value extraction. No trace. |
+| **Logistics** | Recurring. Capacity. |
+| **High-sensitivity** | Cargo that cannot exist on paper. |
+
+---
+
+## VII. DELIVERABLES
+
+| Deliverable | Outcome |
+|-------------|---------|
+| **Cargo delivery** | At destination. |
+| **No manifest** | No paper trail. |
+| **Route** | Deniable. Opaque. |
+
+---
+
+## VIII. OPERATIONAL BOUNDARIES
+
+| Boundary | Client Note |
+|----------|-------------|
+| **Cargo restrictions** | Some cargo excluded. Advise at intake. |
+| **Interception** | No guarantee. Best effort. |
+| **Route feasibility** | Geography. Jurisdiction. Assess at intake. |
+| **Capacity** | Pipeline reserved. Single subject to availability. |
+
+---
+
+## IX. ENGAGEMENT — NEXT STEPS
+
+**We assume nothing. We deliver movement.**
+
+- Discretion absolute. We do not document. We do not retain.
+- Payment in advance. Cargo type and route feasibility evaluated at intake.
+- No charge for assessment.
 
 ---
 

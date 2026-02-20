@@ -39,6 +39,15 @@ Wealth creates trails. Trails create liability. Our clients require **separation
 
 ---
 
+## Sector Expertise
+
+- **Corporate** — Asset protection. Restructure. M&A.
+- **Litigation** — Judgment. Seizure. Decoupling.
+- **High-net-worth** — Wealth. Inheritance. Identity separation.
+- **Defection** — Value extraction. Trail termination.
+
+---
+
 ![VOID SHELL — Asset Protection & Shell Structuring](./assets/void-shell-logo.png)
 
 ---

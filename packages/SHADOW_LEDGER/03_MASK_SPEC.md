@@ -35,25 +35,123 @@ The Mask is our flagship offering: financial trail masking. Transactions occur. 
 
 ---
 
-## II-A. PRICING
+## II. THE EXPERIENCE (What the Client Receives)
 
-| Tier | Scope | Price (USD) |
-|------|-------|-------------|
+*Transactions occur. Money moves. Auditors see nothing.*
+
+The ledger shows what we allow. Books balance. Books hide. Structure. Route. Mask. **Money moves. Auditors see nothing.**
+
+**You paid for that. We deliver it.**
+
+---
+
+## II-A. PRICING — What It Costs
+
+### Tiered Service Packages
+
+| Package | Scope | Price (USD) |
+|---------|-------|-------------|
 | **SINGLE** | One transaction or entity. | $75,000 – $200,000 |
 | **MASK** | Full structure. Multi-entity. | $300,000 – $750,000 |
 | **SHADOW** | Extended. Multi-jurisdiction. | $1,000,000 – $3,000,000 |
 
+### À La Carte Add-Ons
+
+| Component | Specification | Price Range |
+|-----------|---------------|-------------|
+| **Transaction structuring** | Single. Entity. | $75,000 – $200,000 |
+| **Flow routing** | Multi-entity. Cross-border. | $150,000 – $400,000 |
+| **Ledger management** | Audit surface. Compliance. | $200,000 – $500,000 |
+
 ---
 
-## III–VIII. ARCHITECTURE | CAPABILITIES | MODES | PROFILES | DELIVERABLES | BOUNDARIES
+## III. ARCHITECTURE
 
-**Capabilities:** Transaction structuring; Flow routing; Ledger management; Audit compliance surface. **Profiles:** Litigation; Regulatory; Corporate; Asset protection. **Boundaries:** Structure depends on jurisdiction. No guarantee against forensic audit. All structures designed for legal compliance surface.
+### System Type
+| Property | Specification |
+|----------|---------------|
+| **Distribution** | Transaction structuring; flow routing; ledger management; audit compliance surface |
+| **Retention** | Structure documentation. No client identity. |
+| **Forensic profile** | Legal compliance surface. Auditor-invisible movement. |
+
+### Flow
+```
+Value to move → Single (one transaction/entity)
+       ↓
+Mask (full structure, multi-entity)
+       ↓
+Shadow (extended, multi-jurisdiction)
+       ↓
+Money moves. Auditors see nothing.
+```
 
 ---
 
-## IX. ENGAGEMENT
+## IV. CAPABILITIES
 
-**We assume nothing. We deliver obfuscation.** Payment in advance. Jurisdiction and structure feasibility evaluated at intake.
+### Transaction Structuring
+| Capability | Specification |
+|------------|---------------|
+| **Entity design** | Shell. Trust. Structure. |
+| **Flow design** | Route. Layering. Opaque. |
+
+### Ledger Management
+| Capability | Specification |
+|------------|---------------|
+| **Audit surface** | Compliant. Balanced. |
+| **Books** | What we allow. What we hide. |
+
+---
+
+## V. OPERATIONAL MODES
+
+| Mode | What Happens |
+|------|--------------|
+| **Single** | One transaction or entity. |
+| **Mask** | Full structure. Multi-entity. |
+| **Shadow** | Extended. Multi-jurisdiction. |
+
+---
+
+## VI. CLIENT PROFILES
+
+| Profile | Use Case |
+|---------|----------|
+| **Litigation** | Asset protection. Judgment. |
+| **Regulatory** | Compliance surface. Opaque. |
+| **Corporate** | M&A. Divestiture. Restructure. |
+| **Asset protection** | Wealth. Inheritance. |
+
+---
+
+## VII. DELIVERABLES
+
+| Deliverable | Outcome |
+|-------------|---------|
+| **Structure** | Entity. Trust. Route. |
+| **Ledger** | Compliant surface. Masked movement. |
+| **Obfuscation** | Money moves. Auditors see nothing. |
+
+---
+
+## VIII. OPERATIONAL BOUNDARIES
+
+| Boundary | Client Note |
+|----------|-------------|
+| **Jurisdiction** | Structure depends on forum. |
+| **Forensic audit** | No guarantee against deep audit. |
+| **Legal compliance** | All structures designed for compliance surface. |
+| **Counsel** | Tax. Legal. Coordination required. |
+
+---
+
+## IX. ENGAGEMENT — NEXT STEPS
+
+**We assume nothing. We deliver obfuscation.**
+
+- Discretion absolute. We do not document. We do not retain.
+- Payment in advance. Jurisdiction and structure feasibility evaluated at intake.
+- No charge for assessment.
 
 ---
 

@@ -41,6 +41,15 @@ Records persist. Backups persist. Metadata persists. Our clients require communi
 
 ---
 
+## Sector Expertise
+
+- **Corporate** — M&A. Litigation. Leak prevention. Board discretion.
+- **Defection** — Communications that cannot exist.
+- **High-net-worth** — Personal. Financial. No record.
+- **Legal** — Privileged. Work product. Burn when done.
+
+---
+
 ![DEAD LETTER — Secure Messaging & Document Destruction](./assets/dead-letter-logo.png)
 
 ---

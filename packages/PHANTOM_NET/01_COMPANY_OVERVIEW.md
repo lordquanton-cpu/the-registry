@@ -39,6 +39,15 @@ Deletion is not enough. Forensics recover. Backups persist. Metadata survives. W
 
 ---
 
+## Sector Expertise
+
+- **Defection** — Clean exit. Trail elimination.
+- **Litigation** — Evidence. Discovery. Opposition.
+- **Corporate** — Leak. M&A. Clean exit.
+- **High-net-worth** — Digital footprint. Obliteration.
+
+---
+
 ![PHANTOM NET — Digital Forensics Erasure & Trail Elimination](./assets/phantom-net-logo.png)
 
 ---

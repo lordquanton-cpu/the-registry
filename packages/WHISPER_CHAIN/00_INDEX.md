@@ -21,6 +21,8 @@
 
 ## Assets
 
+All images optimized for document/web use. Located in `./assets/`.
+
 | Asset | Description |
 |-------|-------------|
 | `whisper-chain-logo.png` | Primary mark |

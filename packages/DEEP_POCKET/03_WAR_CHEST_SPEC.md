@@ -35,25 +35,130 @@ The War Chest is our flagship offering: non-recourse litigation funding. We fund
 
 ---
 
-## II-A. PRICING
+## II. THE EXPERIENCE (What the Client Receives)
 
-| Tier | Scope | Price (USD) |
-|------|-------|-------------|
+*We fund. You fight. Your opponent runs out. You don't.*
+
+Outcome-contingent. Deniable. Non-recourse. We fund the war. **Your opponent runs out. You don't.**
+
+**You paid for that. We deliver it.**
+
+---
+
+## II-A. PRICING — What It Costs
+
+### Tiered Service Packages
+
+| Package | Scope | Price (USD) |
+|---------|-------|-------------|
 | **BOOST** | Single campaign. Limited capital. | $500,000 – $2,000,000 |
 | **WAR CHEST** | Full funding. Outcome-contingent. | $2,000,000 – $10,000,000 |
 | **DEEP** | Extended. Multi-forum. | Custom |
 
+### À La Carte Add-Ons
+
+| Component | Specification | Price Range |
+|-----------|---------------|-------------|
+| **Capital provision** | Non-recourse. Deniable. | Custom |
+| **Outcome structuring** | Contingent. Success fee. | Custom |
+| **Endurance financing** | Multi-phase. Extended. | Custom |
+
 ---
 
-## III–VIII. ARCHITECTURE | CAPABILITIES | MODES | PROFILES | DELIVERABLES | BOUNDARIES
+## III. ARCHITECTURE
 
-**Capabilities:** Capital provision; Outcome structuring; Deniable routing; Endurance financing. **Profiles:** Litigation; Regulatory; Corporate dispute; High-stakes. **Boundaries:** Subject to case merit and jurisdiction. No guarantee of outcome. Funding structures per local regulation.
+### System Type
+| Property | Specification |
+|----------|---------------|
+| **Distribution** | Capital provision; outcome structuring; deniable routing; endurance financing |
+| **Retention** | Funding terms. No client identity post-closure. |
+| **Forensic profile** | Deniable. Structured. Per regulation. |
+
+### Flow
+```
+Legal conflict identified → Boost (single campaign)
+       ↓
+War Chest (full funding, outcome-contingent)
+       ↓
+Deep (extended, multi-forum)
+       ↓
+You outlast. Opponent runs out.
+```
 
 ---
 
-## IX. ENGAGEMENT
+## IV. CAPABILITIES
 
-**We assume nothing. We deliver funding.** Payment terms per agreement. Case assessment precedes commitment.
+### Capital Provision
+| Capability | Specification |
+|------------|---------------|
+| **Non-recourse** | No personal guarantee. Outcome-contingent. |
+| **Deniable** | Structured. Opaque. |
+| **Scale** | $500K to $10M+. |
+
+### Outcome Structuring
+| Capability | Specification |
+|------------|---------------|
+| **Success fee** | Contingent on outcome. |
+| **Milestone** | Phased. Conditional. |
+
+### Endurance Financing
+| Capability | Specification |
+|------------|---------------|
+| **Multi-phase** | Extended conflict. |
+| **Multi-forum** | Litigation. Regulatory. |
+
+---
+
+## V. OPERATIONAL MODES
+
+| Mode | What Happens |
+|------|--------------|
+| **Boost** | Single campaign. Limited capital. |
+| **War Chest** | Full funding. Outcome-contingent. |
+| **Deep** | Extended. Multi-forum. |
+
+---
+
+## VI. CLIENT PROFILES
+
+| Profile | Use Case |
+|---------|----------|
+| **Litigation** | Plaintiff. Defendant. Opposition outlast. |
+| **Regulatory** | Agency. Compliance. Extended. |
+| **Corporate dispute** | M&A. Partnership. Contract. |
+| **High-stakes** | Outcome-critical. Endurance required. |
+
+---
+
+## VII. DELIVERABLES
+
+| Deliverable | Outcome |
+|-------------|---------|
+| **Capital** | Deployed. Deniable. |
+| **Structure** | Outcome-contingent. Non-recourse. |
+| **Endurance** | You fight. Opponent runs out. |
+
+---
+
+## VIII. OPERATIONAL BOUNDARIES
+
+| Boundary | Client Note |
+|----------|-------------|
+| **Case merit** | Subject to assessment. |
+| **Jurisdiction** | Funding structures per local regulation. |
+| **Outcome** | No guarantee. Contingent terms apply. |
+| **Counsel** | Coordination with trial counsel required. |
+
+---
+
+## IX. ENGAGEMENT — NEXT STEPS
+
+**We assume nothing. We deliver funding.**
+
+- Discretion absolute. We do not document. We do not retain.
+- Payment terms per agreement. Case assessment precedes commitment.
+- No charge for assessment.
 
 ---
 

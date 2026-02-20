@@ -24,9 +24,29 @@ BURNED BRIDGE provides **contact severance** and **clean-break services**. Stalk
 
 ---
 
-## Principles
+## Why We Exist
 
-Prepayment. Cryptocurrency. No questions. No trace.
+Our clients face contact that will not stop. Stalkers. Former partners. Business associates who won't let go. Restraining orders lack enforcement. We provide **permanent severance** where the bridge must burn.
+
+**They stop. You move on.**
+
+---
+
+## Our Principles
+
+1. **Discretion** — We do not document. We do not retain. We do not ask why.
+2. **Deniability** — They stop. No one knows how. We never tell.
+3. **Delivery** — Contact ceases. Permanently. Or we do not charge.
+4. **Prepayment** — Cryptocurrency or structured finance. No refunds. No trace.
+
+---
+
+## Sector Expertise
+
+- **Harassment** — Stalking. Contact cessation.
+- **Litigation** — Opposition. Witness. Restraining.
+- **Corporate** — Former employee. Partner. Clean break.
+- **Personal** — Divorce. Restraining. They stop.
 
 ---
 

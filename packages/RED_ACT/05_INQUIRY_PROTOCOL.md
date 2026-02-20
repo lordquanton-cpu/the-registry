@@ -1,21 +1,70 @@
-# RED ACT — Inquiry Protocol  
+# RED ACT — Inquiry Protocol
 ## How to Engage
+
+![Inquiry Flow](./assets/inquiry-protocol.png)
 
 ---
 
 ## Vetting
 
-Referral required. No charge for assessment. Standby retainer enables one-call activation.
+We do not accept unsolicited inquiries. Introduction through existing client or verified channel required. Initial contact establishes:
+
+1. **Referral** — How you were directed to us
+2. **Scope** — Nature of engagement (no specifics required at intake)
+3. **Capacity** — Ability to meet payment terms
+
+**No charge for assessment.** Standby retainer enables one-call activation.
+
+---
+
+## Contact Channels
+
+| Channel | Use |
+|---------|-----|
+| **Secure drop** | [Protocol-specific. Provided upon referral.] |
+| **Encrypted channel** | Signal/Session. Key provided upon referral. |
+| **Dead drop** | Physical. For high-sensitivity engagements. |
+
+*No email. No phone. No trace.*
 
 ---
 
 ## Payment Terms
 
-Cryptocurrency or structured finance. Retainer or engagement. Payment in advance. No exceptions.
+1. **Currency** — Cryptocurrency (BTC, XMR) or structured finance. No fiat trace.
+2. **Timing** — Payment in advance. No exceptions. No refunds. Retainer or full engagement.
+3. **Structure** — 50% at engagement. 50% at milestone or completion. Standby: retainer enables one-call.
+4. **Escrow** — Multisig available for engagements over $500K.
 
 ---
 
-**Obtain referral. Establish contact. Receive protocol.**
+## Engagement Timeline
+
+| Phase | Duration | Deliverable |
+|-------|----------|-------------|
+| **Intake** | 24–72 hours | Feasibility assessment. No charge. |
+| **Scope** | 1–5 days | Proposal. Pricing. Terms. |
+| **Commitment** | Upon payment | Engagement begins. |
+| **Execution** | Per tier | When you have 72 hours. We have a plan. |
+| **Closure** | 48 hours post-outcome | All materials destroyed. No retention. |
+
+---
+
+## What We Do Not Do
+
+- We do not document beyond operational necessity
+- We do not retain client information post-engagement
+- We do not operate against state actors without authorization
+- We do not accept engagements we cannot fulfill
+- We do not ask why
+
+---
+
+## Next Step
+
+**Obtain referral.**  
+**Establish contact.**  
+**Receive protocol.**
 
 ---
 

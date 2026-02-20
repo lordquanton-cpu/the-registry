@@ -39,6 +39,15 @@ Merit does not always win. Process does. Our clients face litigation, regulation
 
 ---
 
+## Sector Expertise
+
+- **Litigation** — Opposition pressure. Settlement. Dismissal.
+- **Regulatory** — Procedural routes. Timing. Compliance pressure.
+- **Corporate dispute** — M&A. Partnership. Contract.
+- **High-stakes** — Reputation. Assets. Outcome-critical.
+
+---
+
 ![GRAY AREA — Legal Warfare & Procedural Manipulation](./assets/gray-area-logo.png)
 
 ---

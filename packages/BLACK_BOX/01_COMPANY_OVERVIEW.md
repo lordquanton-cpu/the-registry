@@ -24,9 +24,29 @@ BLACK BOX recovers what others cannot. Deleted data. Wiped devices. Lost artifac
 
 ---
 
-## Principles
+## Why We Exist
 
-Prepayment. Cryptocurrency. No questions. No trace.
+Our clients need what was lost—deleted, wiped, or buried. Conventional recovery fails. Litigation demands evidence. Corporate needs documents. We recover what others cannot. We provide **forensic-grade retrieval** where it matters.
+
+**No paper trail. No attribution. No questions.**
+
+---
+
+## Our Principles
+
+1. **Discretion** — We do not document. We do not retain. We do not ask why.
+2. **Deniability** — Chain of custody. No operational record. Delivered.
+3. **Delivery** — We find it. We deliver it. Or we do not charge.
+4. **Prepayment** — Cryptocurrency or structured finance. No refunds. No trace.
+
+---
+
+## Sector Expertise
+
+- **Litigation** — Evidence. Discovery. Deleted data.
+- **Corporate** — IP. Documents. Devices.
+- **Defection** — Recovery before exit.
+- **High-net-worth** — Lost artifacts. Evidence.
 
 ---
 

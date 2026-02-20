@@ -24,9 +24,29 @@ COLD TRAIL provides **counter-investigation** services. Sources dry up. Witnesse
 
 ---
 
-## Principles
+## Why We Exist
 
-Prepayment. Cryptocurrency. No questions. No trace.
+Our clients face investigations that must not conclude. Litigation. Regulatory. Criminal. Sources talk. Evidence accumulates. We provide **counter-investigation** so the case goes cold. Nothing sticks.
+
+**Investigations that go nowhere.**
+
+---
+
+## Our Principles
+
+1. **Discretion** — We do not document. We do not retain. We do not ask why.
+2. **Deniability** — Sources dry up. No one knows how. We never tell.
+3. **Delivery** — Case cold. Investigation stalled. Or we do not charge.
+4. **Prepayment** — Cryptocurrency or structured finance. No refunds. No trace.
+
+---
+
+## Sector Expertise
+
+- **Litigation** — Opposition investigation. Discovery stall.
+- **Regulatory** — Agency probe. Compliance pressure.
+- **Criminal** — Defense. Investigation stall.
+- **Corporate** — Internal. M&A. Leak.
 
 ---
 

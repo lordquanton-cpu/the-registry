@@ -39,6 +39,15 @@ Some clients cannot use their existing identity. Witnesses. Defectors. Those who
 
 ---
 
+## Sector Expertise
+
+- **Defection** — Exit. New identity. No trace back.
+- **Witness** — Protection. New life. Buried past.
+- **Reputation death** — Start over. Clean record.
+- **Litigation escape** — Pre-judgment. Asset protection.
+
+---
+
 ![CLEAN SLATE — Identity Resurrection & Document Fabrication](./assets/clean-slate-logo.png)
 
 ---

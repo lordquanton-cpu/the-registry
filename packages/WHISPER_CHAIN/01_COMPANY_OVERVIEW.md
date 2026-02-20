@@ -39,6 +39,15 @@ The best intelligence is human. Not signals. Not open source. **People** who hav
 
 ---
 
+## Sector Expertise
+
+- **Corporate intelligence** — Competitor. M&A. Due diligence.
+- **Litigation** — Witness. Evidence. Opponent intel.
+- **Defection** — Source cultivation. Extraction.
+- **Due diligence** — Partner. Counterparty. Background.
+
+---
+
 ![WHISPER CHAIN — Human Intelligence & Source Cultivation](./assets/whisper-chain-logo.png)
 
 ---

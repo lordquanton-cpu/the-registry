@@ -21,6 +21,8 @@
 
 ## Assets
 
+All images optimized for document/web use. Located in `./assets/`.
+
 | Asset | Description |
 |-------|-------------|
 | `clean-slate-logo.png` | Primary mark |

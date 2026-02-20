@@ -1,21 +1,70 @@
-# WHISPER CHAIN — Inquiry Protocol  
+# WHISPER CHAIN — Inquiry Protocol
 ## How to Engage
+
+![Inquiry Flow](./assets/inquiry-protocol.png)
 
 ---
 
 ## Vetting
 
-Referral required. No charge for assessment. Target feasibility evaluated at intake.
+We do not accept unsolicited inquiries. Introduction through existing client or verified channel required. Initial contact establishes:
+
+1. **Referral** — How you were directed to us
+2. **Scope** — Nature of engagement (no specifics required at intake)
+3. **Capacity** — Ability to meet payment terms
+
+**No charge for assessment.** Target feasibility evaluated at intake. Cultivation takes time.
+
+---
+
+## Contact Channels
+
+| Channel | Use |
+|---------|-----|
+| **Secure drop** | [Protocol-specific. Provided upon referral.] |
+| **Encrypted channel** | Signal/Session. Key provided upon referral. |
+| **Dead drop** | Physical. For high-sensitivity engagements. |
+
+*No email. No phone. No trace.*
 
 ---
 
 ## Payment Terms
 
-Cryptocurrency or structured finance. Payment in advance. No exceptions.
+1. **Currency** — Cryptocurrency (BTC, XMR) or structured finance. No fiat trace.
+2. **Timing** — Payment in advance. No exceptions. No refunds.
+3. **Structure** — 50% at engagement. 50% at milestone or completion. Sources may refuse. No guarantee.
+4. **Escrow** — Multisig available for engagements over $200K.
 
 ---
 
-**Obtain referral. Establish contact. Receive protocol.**
+## Engagement Timeline
+
+| Phase | Duration | Deliverable |
+|-------|----------|-------------|
+| **Intake** | 24–72 hours | Target feasibility. No charge. |
+| **Scope** | 1–5 days | Proposal. Pricing. Terms. |
+| **Commitment** | Upon payment | Engagement begins. |
+| **Execution** | Per tier | Cultivation: variable. Someone always knows. We find them. |
+| **Closure** | 48 hours post-delivery | All materials destroyed. No retention. |
+
+---
+
+## What We Do Not Do
+
+- We do not document beyond operational necessity
+- We do not retain client information post-engagement
+- We do not compromise sources without authorization
+- We do not accept engagements we cannot fulfill
+- We do not ask why
+
+---
+
+## Next Step
+
+**Obtain referral.**  
+**Establish contact.**  
+**Receive protocol.**
 
 ---
 

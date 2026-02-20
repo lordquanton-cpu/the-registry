@@ -24,9 +24,29 @@ FALSE DOOR deploys **decoys** and **misdirection**. Investigators chase phantoms
 
 ---
 
-## Principles
+## Why We Exist
 
-Prepayment. Cryptocurrency. No questions. No trace.
+Our clients face investigators who are too close. The trail leads to them. Resources burn. We provide **misdirection** and **decoy deployment** so investigators chase phantoms instead.
+
+**They chase phantoms. You stay hidden.**
+
+---
+
+## Our Principles
+
+1. **Discretion** — We do not document. We do not retain. We do not ask why.
+2. **Deniability** — All material fabricated. Real target never exposed.
+3. **Delivery** — Decoys deployed. Resources burned. You stay hidden. Or we do not charge.
+4. **Prepayment** — Cryptocurrency or structured finance. No refunds. No trace.
+
+---
+
+## Sector Expertise
+
+- **Litigation** — Opposition investigation. Discovery diversion.
+- **Regulatory** — Agency probe. Resource burn.
+- **Criminal** — Defense. Investigation stall.
+- **Corporate** — Leak. M&A. Competitor.
 
 ---
 
