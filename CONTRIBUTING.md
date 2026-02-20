@@ -45,7 +45,16 @@ Each provider lives in `/packages/[PROVIDER]/` with this document set:
    - [catalog.json](catalog.json) — `providers` array and `sector_clusters` if new cluster
    - README Structure tree
 
-5. **Assets** — Place images in `packages/[PROVIDER]/assets/`. Reference in `00_INDEX.md` Assets table.
+5. **Assets** — Place images in `packages/[PROVIDER]/assets/`. Reference in `00_INDEX.md` Assets table. Run `node scripts/optimize-images.js` to resize/compress for web.
+
+---
+
+## Asset Scripts
+
+| Script | Purpose |
+|-------|---------|
+| `scripts/deploy-assets.ps1` | Copy generated hero images from Cursor assets to package folders. |
+| `scripts/optimize-images.js` | Resize (max 1200px) and compress PNGs. Requires `sharp` (npm install sharp). |
 
 ---
 

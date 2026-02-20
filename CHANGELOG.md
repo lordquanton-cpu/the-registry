@@ -6,6 +6,21 @@ All notable changes to The Registry are documented here.
 
 ---
 
+## [1.2.0] - 2025-02
+
+### Added
+
+- **Spec hero images** — All 24 flagship specs now have hero banners. Dark minimalist aesthetic.
+- **inquiry-protocol.png** — Shared flow diagram for 05_INQUIRY_PROTOCOL across all packages.
+- **scripts/deploy-assets.ps1** — Deploy generated images to package assets.
+- **scripts/optimize-images.js** — Resize/compress images for faster loading (max 1200px, sharp).
+
+### Changed
+
+- All package assets optimized for web. Images resized and compressed.
+
+---
+
 ## [1.1.0] - 2025-02
 
 ### Added
