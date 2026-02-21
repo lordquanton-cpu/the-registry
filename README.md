@@ -106,6 +106,16 @@
 
 ---
 
+## Join In
+
+This could be the start of something. If you're into this kind of thing — worldbuilding as documentation, fictional catalogs, speculative service design — **let's make more of it together.**
+
+Websites for these worlds. New providers. Cross-universe collabs. A community that builds, extends, and maintains weird, cool fiction as digital art.
+
+No pressure. No gatekeeping. If you feel like contributing, now's the time. See [CONTRIBUTING.md](./CONTRIBUTING.md) to add a provider or deepen the canon.
+
+---
+
 ## License
 
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — Attribution, NonCommercial, ShareAlike. See [LICENSE](./LICENSE).
