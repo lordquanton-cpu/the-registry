@@ -89,10 +89,4 @@ Before proposing a new provider or major change:
 
 ---
 
-## Questions
-
-For inquiries about contribution process: **Lord.Quanton@gmail.com**
-
----
-
 *Extend the universe. Keep the voice. No paper trail.*

@@ -17,7 +17,7 @@ Thumbs.db
 node_modules/
 
 # Internal / operator artifacts (not for public repo)
-AGENT_SPEC/
 IMPLEMENTATION_GUIDE.md
 PUSH_INSTRUCTIONS.md
 **/TRANSFER_BRIEF.md
+GLP_ANNOUNCEMENT_POST.md

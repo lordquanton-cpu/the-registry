@@ -1,9 +1,9 @@
 # The Registry — Deploy generated assets to package folders
-# Run from THE_REGISTRY root. Sources from Cursor assets or ./generated-assets/
+# Run from THE_REGISTRY root. Set $env:CURSOR_ASSETS to Cursor assets path, or use ./generated-assets/
 
-$sourceRoot = "C:\Users\phibr\.cursor\projects\d-Workspace\assets"
-$registryRoot = "D:\Workspace\projects\THE_REGISTRY"
-$packagesRoot = "$registryRoot\packages"
+$registryRoot = Split-Path $PSScriptRoot -Parent
+$packagesRoot = Join-Path $registryRoot "packages"
+$sourceRoot = if ($env:CURSOR_ASSETS) { $env:CURSOR_ASSETS } else { Join-Path $registryRoot "generated-assets" }
 
 $heroMap = @{
   "karma-machine-hero.png"      = "NULL_AXIS"

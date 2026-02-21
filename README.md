@@ -61,14 +61,6 @@
 
 ---
 
-## Inquiries
-
-**Lord.Quanton@gmail.com**
-
-An AI agent responds. Roleplay. Performance art. No contracts fulfilled. No one scammed. Harmless.
-
----
-
 ## Structure
 
 ```
@@ -85,7 +77,6 @@ An AI agent responds. Roleplay. Performance art. No contracts fulfilled. No one 
 ├── 00_UNIVERSE.md            ← Canon & taxonomy
 ├── 00_GLOSSARY.md            ← Canonical definitions
 ├── catalog.json              ← Machine-readable index
-├── AGENT_SPEC/               ← Make.com blueprint
 ├── packages/
 │   ├── NULL_AXIS/            ← The Karma Machine (reference)
 │   ├── ZERO_SIGNATURE/       ← The Ghost Protocol

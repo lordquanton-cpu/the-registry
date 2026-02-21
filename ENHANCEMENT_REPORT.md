@@ -17,7 +17,7 @@
 | **Usability** | High | Cross-links, validation, pre-submit checklist |
 | **DevEx & Ops** | High | validate-catalog.js, CONTRIBUTING checklist |
 | **Interoperability** | High | catalog.json for APIs, tooling, automation |
-| **Ethics** | Medium | Documented crisis override in AGENT_SPEC |
+| **Ethics** | Medium | Documented crisis override in AGENTS.md |
 | **Pedagogy** | Medium | Glossary, AGENTS.md, CONTRIBUTING expansion |
 | **Resilience** | Low | Blueprint troubleshooting, crisis handling docs |
 
@@ -41,10 +41,10 @@
 
 ### Usability
 - **CONTRIBUTING.md** — Pre-submit checklist. catalog.json registration. Validation script step.
-- **AGENT_SPEC/BLUEPRINT_README.md** — Crisis handling section. Documents that override is intentional.
+- **AGENTS.md** — Crisis handling section. Documents that override is intentional.
 
 ### Ethics
-- Crisis override in Blueprint system prompt is preserved. AGENT_SPEC and AGENTS.md now document it explicitly so future maintainers do not remove it.
+- Crisis override is documented in AGENTS.md so future maintainers do not remove it.
 
 ---
 

@@ -6,6 +6,21 @@ All notable changes to The Registry are documented here.
 
 ---
 
+## [1.4.0] - 2025-02
+
+### Removed
+
+- **Contact/automation** — Removed public contact email and Make.com inquiry automation. Art project remains; no automated responses.
+- **CONTACT.md** — Deleted.
+- **AGENT_SPEC/** — Removed (Make.com blueprint).
+
+### Changed
+
+- **scripts/deploy-assets.ps1** — Uses `$PSScriptRoot` and `$env:CURSOR_ASSETS` (or `./generated-assets/`). No hardcoded user paths.
+- **ENHANCEMENT_REPORT.md** — Updated AGENT_SPEC references to AGENTS.md.
+
+---
+
 ## [1.3.0] - 2025-02
 
 ### Added
@@ -54,7 +69,6 @@ All notable changes to The Registry are documented here.
 - **00_UNIVERSE.md** — Canon. Sector taxonomy. Operating principles.
 - **00_GLOSSARY.md** — Canonical definitions for terms.
 - **catalog.json** — Machine-readable provider index for tooling.
-- **AGENT_SPEC** — Make.com blueprint for inquiry automation (Gmail → OpenAI → Gmail).
 - **Packages** — Per-provider: 00_INDEX, 01–06 document set, assets.
 - **Reference package** — NULL_AXIS (depth standard).
 - **LICENSE** — CC BY-NC-SA 4.0.
@@ -64,7 +78,6 @@ All notable changes to The Registry are documented here.
 
 - Operating principles: Discretion, Deniability, Prepayment, Referral.
 - Sector clusters: Influence, Exfiltration, Evasion, Intelligence, Financial, Attribution, Severance, Enforcement.
-- Contact: Lord.Quanton@gmail.com. AI responds. Roleplay. Harmless.
 
 ---
 

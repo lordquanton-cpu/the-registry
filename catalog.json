@@ -4,7 +4,6 @@
   "description": "Machine-readable index of Registry providers. Fictional. For tooling and automation.",
   "version": "1.0",
   "canon": "00_UNIVERSE.md",
-  "contact": "Lord.Quanton@gmail.com",
   "providers": [
     {"id": "NULL_AXIS", "sector": "Strategic Influence. Covert Resolution.", "flagship": "The Karma Machine", "slug": "NULL_AXIS"},
     {"id": "ZERO_SIGNATURE", "sector": "Exfiltration. Counter-surveillance. Oblivion.", "flagship": "The Ghost Protocol", "slug": "ZERO_SIGNATURE"},

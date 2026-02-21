@@ -2,7 +2,6 @@
 
 **Classification:** Public-facing. Registry.  
 **Purpose:** Central index of available providers.  
-**Contact:** Lord.Quanton@gmail.com — All inquiries vetted. Referral preferred.  
 **Canon:** See [00_UNIVERSE.md](./00_UNIVERSE.md) for sector taxonomy and operating principles.  
 **Pricing:** [00_PRICING_INDEX.md](./00_PRICING_INDEX.md) · **Testimonials:** [00_TESTIMONIALS_INDEX.md](./00_TESTIMONIALS_INDEX.md) · **Machine-readable:** [catalog.json](./catalog.json) · **Glossary:** [00_GLOSSARY.md](./00_GLOSSARY.md)
 
@@ -36,16 +35,6 @@
 | **FALSE DOOR** | Decoy operations. Misdirection. False targets. | The Bait | [Spec](./packages/FALSE_DOOR/README.md) |
 | **DEEP POCKET** | Litigation funding. War chest provision. Asymmetric advantage. | The War Chest | [Spec](./packages/DEEP_POCKET/README.md) |
 | **PARALLAX** | False-flag operations. Attribution shifting. Blame redirection. | The Shift | [Spec](./packages/PARALLAX/README.md) |
-
----
-
-## How to Inquire
-
-1. **Email** — Lord.Quanton@gmail.com
-2. **Subject** — Service code (e.g., `NULL-AXIS-INTAKE`, `ZS-OBLIVION`)
-3. **Body** — Referral source. No specifics required. Capacity confirmed separately.
-
-**Response within 72 hours.** Referral expedites.
 
 ---
 
